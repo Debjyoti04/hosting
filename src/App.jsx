@@ -34,7 +34,7 @@ const App = () => {
         {/* Main Content */}
         <main className="flex-grow">
           <Routes>
-            <Route path="/" element={<Home />} />{" "}
+            <Route path="/hosting" element={<Home />} />{" "}
             {/* Home page with all sections */}
             <Route path="/signup" element={<SignUp />} /> {/* Sign-up page */}
           </Routes>
