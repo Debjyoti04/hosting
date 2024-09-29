@@ -5,19 +5,19 @@ import { motion } from "framer-motion";
 const testimonials = [
   {
     name: "Aryan Chhetri",
-    image: "/assets/user1.png", 
+    image: "public/assets/user1.png", 
     feedback:
       "This tool has transformed the way I manage my social media. Highly recommended!",
   },
   {
     name: "Debjoyti Das",
-    image: "/assets/user1.png",
+    image: "public/assets/user1.png",
     feedback:
       "Efficient, reliable, and user-friendly. My engagement has doubled since using this tool.",
   },
   {
     name: "Harsh Prakash",
-    image: "/assets/user1.png",
+    image: "public/assets/user1.png",
     feedback:
       "A game-changer for content creators. The scheduling feature saves me so much time!",
   },
